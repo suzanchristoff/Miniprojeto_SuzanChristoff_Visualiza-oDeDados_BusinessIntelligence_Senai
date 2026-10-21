@@ -1,4 +1,4 @@
-# Análise de Vendas – Zé Pequeno Paçocas e Rolhas Ltda
+# Análise Exploratória de Dados – Base de Dados Varejo
 
 Mini projeto de análise exploratória de dados em Python com Pandas aplicada a uma base de dados de varejo.
 
